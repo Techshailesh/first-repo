@@ -1,2 +1,2 @@
 # first-repo
-This is my first Github repo , I am learning GIT.
+WELCOME TO GIT , learn GIT
